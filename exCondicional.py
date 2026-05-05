@@ -1,7 +1,7 @@
 valor = float(input("Digite o valor do pedido:"))
 
 """
-Regra de negócio:
+Regras de negócio:
 * Se a venda for até 100 reais, não tem desconto
 * Se a venda for entre 100,01 e 299.99 reais, dê 10% de desconto
 * Se a venda for acima 300, dê 15% de desconto 
